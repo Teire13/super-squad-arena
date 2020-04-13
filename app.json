@@ -1,0 +1,7 @@
+{
+  "name": "super-squad-arena",
+  "description": "super-squad-arena",
+  "repository": "https://github.com/super-squad-arena",
+  "keywords": ["docker"],
+  "stack": "container"
+}
